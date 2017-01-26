@@ -115,7 +115,7 @@ namespace citp180_week002
 
         private static void problem001()
         {
-            // Problem 1
+            /// Problem 1
             Console.WriteLine("\nProblem 1\n");
             double feet;
             double inches;

@@ -10,7 +10,7 @@ namespace citp180_week002
     {
         static void Main(string[] args)
         {
-            // CITP180 - Week 2
+            // CITP180 - Week 2 
             problem001();
             problem002();
             problem003();

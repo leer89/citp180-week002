@@ -73,7 +73,7 @@ namespace citp180_week002
 
         private static void problem006()
         {
-            // Problem 6
+            //// Problem 6
             Console.WriteLine("\nProblem 6\n");
             int[] scores = new int[6];
             int i;
